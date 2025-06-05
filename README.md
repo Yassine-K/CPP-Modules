@@ -1,4 +1,4 @@
-# CPP-Moduels
+# CPP-Modules
 # 42 C++ Modules: Series Overview
 
 Welcome to the 42 C++ Modules project! This series consists of 10 modules (00 through 09) designed to progressively enhance your understanding and skills in C++ programming. Each module focuses on specific concepts and challenges that align with the 42 Network's rigorous curriculum.
